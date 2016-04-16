@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Say The Words]]></title>
+        <description><![CDATA[Say The Words]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 16 Apr 2016 01:06:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Have you ever thought "I could do more" ? Well of course you have and half the time you
+
+actually plans to do so. But........Let's be honest I could just means, I won't, most of the time. Don't you want
+
+to change that? Don't you want to do more with this life than exist? I know we all tell are self
+
+stories about how we are living. Like, "I just went out last Tuesday" or I'm going Mexico in April.
+
+Like those few things help us stay content in the life that were not living. How can we break the
+
+cycle of I could and turn it into I can followed by I did. That's what I want to help you with. By
+
+adapting my philosophy you will not only be living your life but you will thrive! say it with me "I
+
+CAN DO MORE!"</p>]]></description>
+            <link>undefinedhave-you-ever-thought-i-could-do-more-well-of-course-you/index.html</link>
+            <guid isPermaLink="false">e30f6e47-db72-404f-b321-5cb78796ee9c</guid>
+            <pubDate>Sat, 16 Apr 2016 01:06:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
