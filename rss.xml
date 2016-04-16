@@ -2,30 +2,16 @@
     <channel>
         <title><![CDATA[Say The Words]]></title>
         <description><![CDATA[Say The Words]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/icandomore/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 01:06:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Apr 2016 04:08:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/icandomore/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Have you ever thought "I could do more" ? Well of course you have and half the time you
-
-actually plans to do so. But........Let's be honest I could just means, I won't, most of the time. Don't you want
-
-to change that? Don't you want to do more with this life than exist? I know we all tell are self
-
-stories about how we are living. Like, "I just went out last Tuesday" or I'm going Mexico in April.
-
-Like those few things help us stay content in the life that were not living. How can we break the
-
-cycle of I could and turn it into I can followed by I did. That's what I want to help you with. By
-
-adapting my philosophy you will not only be living your life but you will thrive! say it with me "I
-
-CAN DO MORE!"</p>]]></description>
-            <link>undefinedhave-you-ever-thought-i-could-do-more-well-of-course-you/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a39aef92-0fb0-40a8-b62d-b54b2d252f36.png">]]></description>
+            <link>https://thegrid.ai/icandomore/have-you-ever-thought-i-could-do-more-well-of-course-you/index.html</link>
             <guid isPermaLink="false">e30f6e47-db72-404f-b321-5cb78796ee9c</guid>
-            <pubDate>Sat, 16 Apr 2016 01:06:21 GMT</pubDate>
+            <pubDate>Sat, 16 Apr 2016 04:07:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
