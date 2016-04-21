@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Say The Words]]></title>
+        <description><![CDATA[Say The Words]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Apr 2016 03:30:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Say the words.]]></title>
+            <description><![CDATA[<article><h1>Say the words.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d3d769b3aa3cf390542fa81a9b62dd268c337f5.jpg"></article>]]></description>
+            <link>http://i.dailymail.co.uk/i/pix/2016/01/05/12/2CFA746400000578-0-image-a-9_1451997714670.jpg</link>
+            <guid isPermaLink="false">fb07a28b-9f30-4229-b36d-9661ac6b59c4</guid>
+            <pubDate>Thu, 21 Apr 2016 03:29:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
