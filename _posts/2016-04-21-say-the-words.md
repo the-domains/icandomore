@@ -1,5 +1,6 @@
 ---
-dateModified: '2016-04-21T03:29:13.277Z'
+dateModified: '2016-04-21T03:44:18.680Z'
+datePublished: '2016-04-21T03:46:32.165Z'
 hasPage: false
 inFeed: true
 inNav: false
@@ -8,7 +9,6 @@ starred: false
 title: Say the words.
 description: ''
 author: []
-datePublished: '2016-04-21T03:29:34.197Z'
 sourcePath: _posts/2016-04-21-say-the-words.md
 published: true
 _context: 'http://schema.org'
