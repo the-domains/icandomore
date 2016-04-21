@@ -7,23 +7,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Wild Roamers, '
-datePublished: '2016-04-21T05:12:32.831Z'
-dateModified: '2016-04-21T05:11:12.554Z'
+datePublished: '2016-04-21T22:42:04.692Z'
+dateModified: '2016-04-21T22:35:39.168Z'
 author: []
 title: ''
+sourcePath: _posts/2016-04-21-wild-roamers.md
+published: true
 authors: []
 publisher:
   name: wildroamers.tumblr.com
   domain: wildroamers.tumblr.com
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-wild-roamers.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
 ---
-Wild Roamers, 
+**Wild Roamers**, 
 
 proving the more you roam the more you will see. 
 
