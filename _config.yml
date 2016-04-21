@@ -1,7 +1,7 @@
 name: I Can Do More
 favicon: null
 layout_spectrum: 0.76283
-typography_spectrum: 1
+typography_spectrum: 0.49248
 title: Say The Words
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#a9c4d7'
     - '#7a5252'
     - '#827262'
-  brandStrength: 0.5
+  brandStrength: 0.4375
   lightness: 0.5625
   saturation: 0.375
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.25
 purpose: []
